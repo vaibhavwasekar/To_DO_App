@@ -1,0 +1,22 @@
+body {
+    background-color: #007bff !important;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.card {
+    margin-top: 10px;
+}
+
+.card-body h3 {
+    color: #333;
+    font-size: 1.5rem;
+}
+
+.text-white {
+    text-align: center;
+    margin-top: 10px;
+}
